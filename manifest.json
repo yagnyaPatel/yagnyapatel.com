@@ -5,7 +5,7 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "main.css": "/main.css",
-    "main.js": "/main.bundle.js",
+    "main.js": "main.bundle.js",
     "main.js.map": "/main.bundle.js.map",
     "bg-2000w.jpg": "/097cc3644d0b97dae1b15d323a0d5078.jpg",
     "bg-1024w.jpg": "/15e6feceea8f0f8725b1ef420fd21650.jpg",
@@ -18,7 +18,7 @@
     "bg-2500w.jpg": "/9eab01265c833fdaa270b6fe3ecd3a76.jpg",
     "unicorn.gif": "/ac8e719b3f7086bff10c0731d6d005ea.gif",
     "cameronaskin-share.jpg": "/cameronaskin-share.jpg",
-    "desktop-cameronsworld.gif": "/dfc843e4fc2b47380ce2579b9254a410.gif",
+    "desktop-cameronsworld.gif": "/img/dfc843e4fc2b47380ce2579b9254a410.gif",
     "bg-1200w.jpg": "/ef32797f7a2830ee5b7ff941332ee299.jpg",
     "favicon.ico": "/favicon.ico",
     "icon-16x16.png": "/icon-16x16.png",
@@ -26,5 +26,5 @@
     "icon-192x192.png": "/icon-192x192.png",
     "icon-32x32.png": "/icon-32x32.png",
     "icon-512x512.png": "/icon-512x512.png",
-    "index.html": "/index.html"
+    "index.html": "index.html"
   }
